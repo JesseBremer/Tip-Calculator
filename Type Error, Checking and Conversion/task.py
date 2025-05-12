@@ -1,1 +1,5 @@
-len(12345)
+len("12345")
+print(type("hi"))
+print(type(123))
+print(type(1.1234))
+print(type(True))
